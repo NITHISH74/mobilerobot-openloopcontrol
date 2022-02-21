@@ -91,7 +91,6 @@ if __name__ == '__main__':
 ![robo](./img/robomaster.png)
 ![robo1](./img/mobo.jpg)
 ![robo2](./img/mobo2.jpg)
-![robo2](./img/mobo3.jpg)
 
 
 
@@ -100,6 +99,8 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Video:
 Embed video here: 🎬🎬🎬https://www.youtube.com/watch?v=X5581Md0V3I
+
+
 https://www.youtube.com/watch?v=M9oHs1Cbacw
 
 
