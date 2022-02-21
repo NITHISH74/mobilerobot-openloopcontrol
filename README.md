@@ -91,7 +91,6 @@ if __name__ == '__main__':
 ![robo](./img/robomaster.png)
 ![robo1](./img/mobo.jpg)
 ![robo2](./img/mobo2.jpg)
-![robo2](./img/mobo3.jpg)
 
 
 
